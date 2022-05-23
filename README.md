@@ -1,8 +1,11 @@
 # BIM-projects
 Репозиторий для проектов 
 
+Картинка:
 
-![alt text](Screenshots/Office.md "Список доступных тестов")
+![alt text](Screenshots/Project1/Project1_1.jpg "Если навести на картинку вылезет этот текст")
+
+Список:
 
 [Описание проекта вентиляции офисного здания](https://github.com/Pegoxi/BIM-projects/blob/main/Проект%20вентиляции%20офисного%20здания/ReadmeOfficeV.md)
 
